@@ -1,0 +1,21 @@
+# Site settings
+title: M S Suraj
+email: mssurajkaiga@gmail.com
+description: "Personal Website"
+baseurl: "/"
+url: "http://www.mssuraj.in"
+twitter_username: user
+github_username: user
+disqus_username: false
+isso_domain: comments.mssuraj.in
+
+# Build settings
+markdown: redcarpet
+permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
