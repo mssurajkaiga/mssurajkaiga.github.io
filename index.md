@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a final year Engg. undergrad at [BITS Pilani Goa](http://universe.bits-pilani.ac.in/Goa/) majoring in Electrical and Electronics Engineering with a flavour of Computer Science [[courses](/courses.html)]. 
+I am a final year Engg. undergrad at [BITS Pilani Goa](http://universe.bits-pilani.ac.in/Goa/) majoring in Electrical and Electronics Engineering with a slight flavour of Computer Science [[courses](/courses.html)]. 
 
 My research interests broadly lie in Computer Vision and Computer Graphics. In particular, I have a very keen interest in photo-realistic rendering and GPGPU and generally enjoy anything that exploits GPUs.
 
