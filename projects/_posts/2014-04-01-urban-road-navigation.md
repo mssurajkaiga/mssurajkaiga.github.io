@@ -1,5 +1,5 @@
 ---
-date: 2014-01-01
+date: 2014-04-01
 layout: projects_post
 title: Monocular Vision Based Road Detection and Following
 ---
