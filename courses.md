@@ -26,10 +26,10 @@ Electrical and Electronics (Major)
 Computer Science
 ================
 * Computer Networks
-* Computer Architecture (ongoing)
-* Computer Graphics (ongoing)
-* Object Oriented Programming (ongoing)
-* Operating Systems (ongoing)
+* Computer Architecture
+* Computer Graphics
+* Object Oriented Programming
+* Operating Systems
 
 Humanities and Others
 =====================
